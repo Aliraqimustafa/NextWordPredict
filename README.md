@@ -10,7 +10,7 @@ If you want to use the `main.py` code as-is, you'll need to install the `dataset
 
 ```bash
 pip install datasets
-
+```
 
 In this way, you provide clear instructions to users on how to install the `datasets` package using pip for your next word prediction project.
 
