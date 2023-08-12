@@ -14,5 +14,6 @@ pip install datasets
 
 In this way, you provide clear instructions to users on how to install the `datasets` package using pip for your next word prediction project.
 
-👤 Mustafa Mohammad
-📞 Telegram: @ha12qw](https://t.me/ha12qw)
+👤 **Mustafa Mohammad**
+📞 **Telegram:** [@ha12qw](https://t.me/ha12qw)
+
