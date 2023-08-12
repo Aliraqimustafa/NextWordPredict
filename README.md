@@ -15,8 +15,9 @@ pip install datasets
 In this way, you provide clear instructions to users on how to install the `datasets` package using pip for your next word prediction project.
 Here is an illustration of how the main.py file works
 
-![alt text](http://url/to/img.png)
+![Image has explain how is it work]([http://url/to/img.png](https://raw.githubusercontent.com/Aliraqimustafa/NextWordPredict/main/img/exp.jpg)https://raw.githubusercontent.com/Aliraqimustafa/NextWordPredict/main/img/exp.jpg)
 
 👤 **Mustafa Mohammad**
 📞 **Telegram:** [@ha12qw](https://t.me/ha12qw)
+💬 **Facebook**: [account](https://facebook.com/100049592914479)
 
